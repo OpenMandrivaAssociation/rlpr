@@ -1,7 +1,7 @@
 Summary:	Remote printing utilities
 Name:		rlpr
 Version:	2.06
-Release:	%mkrel 4
+Release:	%mkrel 5
 License:	GPL
 Group:		Networking/Remote access
 # Site of original author is dead, and project, too. As several other
