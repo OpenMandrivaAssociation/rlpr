@@ -7,7 +7,7 @@ Group:		Networking/Remote access
 # Site of original author is dead, and project, too. As several other
 # orphaned printing packages this is re-hosted on linuxprinting.org
 Source0:	http://www.linuxprinting.org/download/printing/%{name}-%{version}.tar.bz2
-URL:		http://www.linuxprinting.org/download/printing/README.txt
+URL:		https://www.linuxprinting.org/download/printing/README.txt
 BuildRoot:	%_tmppath/%name-%version-%release-root
 
 %description
