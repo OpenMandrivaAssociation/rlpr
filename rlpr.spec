@@ -10,6 +10,11 @@ Source0:	http://www.linuxprinting.org/download/printing/%{name}-%{version}.tar.b
 URL:		https://www.linuxprinting.org/download/printing/README.txt
 BuildRoot:	%_tmppath/%name-%version-%release-root
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 Rlpr is a package that makes it possible (or at the very least,
 easier), to print files on remote sites to your local printer. The
